@@ -15,6 +15,9 @@
 // 4. how to run js file.
 //      a)  npm start
 //      b)  node (js file name)
+
+// 5. how to install mysql server :- sudo apt-get install mysql-server
+
 // // -------------------------------------------------
 
 const mysql = require('mysql');
